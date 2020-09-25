@@ -36,4 +36,4 @@ Use it freely but please do not republish, distribute or sell "as-is".
 
 ### Elegant Icons 
 
-[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)# tellmemore
